@@ -50,5 +50,34 @@ int main(){
     //     cout<< arr[i] << " ";
     // }
 
-    return 0;
+    //take input in array and print their doubles
+
+    // int arr[50];
+    // int n;
+    // cout<< "How many elements you wnat to add in the array?"<< endl;
+    // cin>> n;
+
+    // cout<< "Enter elements of the array"<< endl;
+    // for (int i=0; i<n; i++){
+    //     cin >> arr[i];
+    // }
+
+    // //printing the doubles of the elements
+    // cout<< "\nThe Doubled Elements are: "<<endl;
+    // for (int i = 0 ; i < n ; ++i){
+    //     cout<< 2*arr[i]<< " ";
+    // }
+   
+    // int arr[5]={1,3,5,7};
+    // for(int i=0; i<5; i++){
+    // cout<< arr[i] << " ";
+    // }
+    // cout<< "\ntransformed array is"<< endl;
+    // for(int i=0; i<5; i++){
+    //     arr[i]=1;
+    //     cout<<  arr[i]<< " ";
+    // }
+    // return 0;
+
+    
 }
