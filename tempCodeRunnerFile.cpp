@@ -1,11 +1,4 @@
-int main(){
-
-//     // int n;
-//     // cout<< "Enter the value of n"<< endl;
-//     // cin>> n;
-
-//     // for(int i=0; i<n; i++){
-//     //     cout<< "uppu"<< endl;
-//     // }
-//     //yeh agar hume baar baar arwana ho toh copy paste ya bohot lengthy and bulky isliye functions 
-// }
+int brr[3][3]={
+    // {1,2,3},
+    // {4,5,6},
+    // {7,8,9}};
